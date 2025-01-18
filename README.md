@@ -1,4 +1,4 @@
-# İstnabul Kültür Üniversitesi Kütüphane Chatbotu  
+# İstanbul Kültür Üniversitesi Kütüphane Chatbotu  
 
 Bu proje, **İstanbul Kültür Üniversitesi** kütüphane sistemi için geliştirilmiş bir chatbot uygulamasıdır. Kullanıcılar, kütüphaneyle ilgili sıkça sorulan sorulara (FAQ) yanıt bulabilir, kütüphane hizmetleri hakkında bilgi alabilir ve doğal bir kullanıcı arayüzü üzerinden chatbot ile etkileşim kurabilir.  
 
